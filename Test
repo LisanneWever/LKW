@@ -23,12 +23,12 @@ body {
     .widget .widget-inner > footer {
       color: #555555;
       background-color: whitesmoke;
-      text-shadow: 1px 1px white; }
+      text-shadow: 1px 1px #d6d6d6; }
   .widget .widget-body {
     color: #e25f5f;
     text-shadow: 1px 1px white; }
     .widget .widget-body .t-secondary {
-      color: #969696; }
+      color: #d6d6d6; }
   .widget .widget-actions a:hover {
     background-color: gainsboro; }
 
